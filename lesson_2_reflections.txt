@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+- It adds an .git file.
+- To be able to start commiting.
